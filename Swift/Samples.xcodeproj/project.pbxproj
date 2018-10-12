@@ -39,6 +39,7 @@
 		2B740914211697AF00986436 /* ReachableNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B740913211697AF00986436 /* ReachableNodes.swift */; };
 		2B7409162118112700986436 /* CapGemini.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B7409152118112700986436 /* CapGemini.swift */; };
 		2BB93BA6216F92EE00FA3624 /* File123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BB93BA5216F92EE00FA3624 /* File123.swift */; };
+		2BB93BA8217050C100FA3624 /* Hulu1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BB93BA7217050C100FA3624 /* Hulu1.swift */; };
 		2BE99EF521098C2D00365498 /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE99EF421098C2D00365498 /* Configuration.swift */; };
 		2BE99EF721098C4700365498 /* ConfigurationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE99EF621098C4700365498 /* ConfigurationManager.swift */; };
 		2BE99EF92109A58700365498 /* Fibonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE99EF82109A58700365498 /* Fibonacci.swift */; };
@@ -113,6 +114,7 @@
 		2B740913211697AF00986436 /* ReachableNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReachableNodes.swift; sourceTree = "<group>"; };
 		2B7409152118112700986436 /* CapGemini.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapGemini.swift; sourceTree = "<group>"; };
 		2BB93BA5216F92EE00FA3624 /* File123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File123.swift; sourceTree = "<group>"; };
+		2BB93BA7217050C100FA3624 /* Hulu1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hulu1.swift; sourceTree = "<group>"; };
 		2BE99EF421098C2D00365498 /* Configuration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Configuration.swift; sourceTree = "<group>"; };
 		2BE99EF621098C4700365498 /* ConfigurationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigurationManager.swift; sourceTree = "<group>"; };
 		2BE99EF82109A58700365498 /* Fibonacci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fibonacci.swift; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 		2BE99EFA2109A7C400365498 /* Examples */ = {
 			isa = PBXGroup;
 			children = (
+				2BB93BA7217050C100FA3624 /* Hulu1.swift */,
 				2B74090C21168F4B00986436 /* LeetCode */,
 				2B42E91E2112C99300B56BE7 /* Theory.swift */,
 				2B42E9192112C1D800B56BE7 /* KVO */,
@@ -416,6 +419,7 @@
 				2B6E86DB216CA0F6007E84B2 /* AVPie.m in Sources */,
 				2B55EF5020FE2FB000395DFB /* HexaDecimal.swift in Sources */,
 				2B7409122116978D00986436 /* DecodedString.swift in Sources */,
+				2BB93BA8217050C100FA3624 /* Hulu1.swift in Sources */,
 				2B55EF2420FE2F9100395DFB /* TimerViewController.swift in Sources */,
 				2B6E86EB216CAED4007E84B2 /* BIDartCircleGraph.m in Sources */,
 				2B6E86DE216CA0F6007E84B2 /* GrowthDataParser.m in Sources */,

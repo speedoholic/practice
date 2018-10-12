@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
 options: "7ccb6fba4bf0d3ae19bf95007acc54de"
-build_time: [1539267778, 255035000]
+build_time: [1539316101, 875349000]
 inputs:
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/LRU.swift": [1533021325, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/KVO/ConfigurationManager.swift": [1532582291, 0]
@@ -15,6 +15,7 @@ inputs:
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/LeetCode/CapGemini.swift": [1533536478, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/HexaDecimal.swift": [1532517141, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/LeetCode/DecodedString.swift": [1533435934, 0]
+  "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/Hulu1.swift": [1539316101, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/KVO/TimerViewController.swift": [1533185720, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/Theory.swift": [1533190347, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/LeetCode/ProjectionArea.swift": [1533435903, 0]
@@ -22,5 +23,5 @@ inputs:
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/AppDelegate.swift": [1531836433, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/ZeroSum.swift": [1532517174, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/BinaryTree.swift": [1533011438, 0]
-  "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/File123.swift": [1539267754, 0]
+  "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/File123.swift": [1539306509, 0]
   "/Users/kushalashok/Documents/Kushal/Personal/Interviews/XcodePractice/Swift/Samples/Examples/LeetCode/ReachableNodes.swift": [1533435956, 0]

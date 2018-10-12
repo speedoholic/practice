@@ -9,6 +9,7 @@ depends-top-level:
 - !private "=="
 - !private ">"
 - "AssignmentPrecedence"
+- !private "BooleanLiteralType"
 - "Int"
 - "String"
 - !private "StringLiteralType"
